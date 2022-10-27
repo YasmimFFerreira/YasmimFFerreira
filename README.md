@@ -54,15 +54,14 @@
 📍 **Instituto Federal de São Paulo** - Votuporanga, Brasil
   
   
-  ##  Experiência
+ ##  Experiência
 
+ 👨‍💻 **Desenvolvedor Front-end** \
+📆 11/2022 - momento\
+📍 **M3 e-commerce** - Home Office
+  
+   </br>
 - 👨‍💻 **Estagiário em Desenvolvimendo Web** \
 📆 04/2022 - 10/2022\
 📍 **Original.io** - Home Office
-  
-  </br>
-  
-   👨‍💻 **Desenvolvedor Front-end** \
-📆 11/2022 - momento\
-📍 **M3 e-commerce** - Home Office
   
