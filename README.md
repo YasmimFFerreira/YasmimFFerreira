@@ -9,17 +9,17 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/yasmim-fernanda-ferreira/">
+  <a href="https://www.linkedin.com/mwlite/in/yasmim-fernanda-ferreira-184bb3162">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>   
-  <a href="https://instagram.com/yasmimfernandaferreira">
+  <a href="https://www.instagram.com/ferreira__yasmim/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>   
 </p>
 
 <p align='center'>
    </br>
-  Estudante de Licenciatura em Física que desde 2020 começou a transição de carreira para esse universo tão maravilhoso do desenvolvimento, sempre em buscando atualizar e aperfeiçoar nas melhores tecnologias 
+  Estudante de Licenciatura em Física que desde 2020 começou a transição de carreira para esse universo tão maravilhoso do desenvolvimento, sempre buscando me atualizar e aperfeiçoar nas melhores tecnologias 
   </br>
    </br>
   "A mente é tudo. Você se torna aquilo que você pensa."
