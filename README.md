@@ -9,14 +9,14 @@
 </p>
 
 <p align='center'>
-   <a href="https://www.instagram.com/ferreira__yasmim/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+   <a target="_blank" href="https://www.instagram.com/ferreira__yasmim/">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>  
-  <a href="https://www.linkedin.com/mwlite/in/yasmim-fernanda-ferreira-184bb3162">
+  <a target="_blank" href="https://www.linkedin.com/in/yasmim-fernanda-ferreira-184bb3162/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>   
- <a href="mailto:yasmimffeira@gmail.com">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+ <a target="_blank" href="mailto:yasmimffeira@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />         
   </a>   
 </p>
 
