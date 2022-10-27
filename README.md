@@ -1,5 +1,7 @@
-### Olá 👋
 
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/98420637/198363808-4b63c16d-c5b4-4d3d-8bca-063ead026553.png)
+
+https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white 
 <!--
 **YasmimFFerreira/YasmimFFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
