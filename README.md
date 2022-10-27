@@ -22,7 +22,7 @@
 
 <p align='center'>
    </br>
-  Estudante de Licenciatura em Física que desde 2020 começou a transição de carreira para esse universo tão maravilhoso do desenvolvimento, sempre buscando me atualizar e aperfeiçoar nas melhores tecnologias;
+  Estudante de Licenciatura em Física que desde 2020 começou a transição de carreira para esse universo tão maravilhoso do desenvolvimento, sempre buscando me atualizar e aperfeiçoar nas melhores tecnologias
   </br>
    </br>
   "A mente é tudo. Você se torna aquilo que você pensa."
@@ -32,7 +32,7 @@
 </p>
 
 <h3 align='center'>
-  SEGUE MINHAS HABILIDADES E PROGESSOS
+  SEGUE MINHAS HABILIDADES E PROGRESSOS
  </h3>
 
 <p align='center'>
