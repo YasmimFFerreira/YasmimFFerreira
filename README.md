@@ -1,18 +1,65 @@
-
 ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/98420637/198363808-4b63c16d-c5b4-4d3d-8bca-063ead026553.png)
 
-https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white 
-<!--
-**YasmimFFerreira/YasmimFFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'>
+  Olá 👋 bem vindo ao meu perfil!
+</h1>
 
-Aqui estão algumas ideias para você começar:
+<p align='center'>
+  Desenvolvedora web de Riolândia-SP para o mundo
+</p>
 
-- 🔭 Atualmente estou trabalhando em...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="https://www.linkedin.com/in/yasmim-fernanda-ferreira/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>   
+  <a href="https://instagram.com/yasmimfernandaferreira">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>   
+</p>
+
+<p align='center'>
+   </br>
+  Estudante de Licenciatura em Física que desde 2020 começou a transição de carreira para esse universo tão maravilhoso do desenvolvimento, sempre em buscando atualizar e aperfeiçoar nas melhores tecnologias 
+  </br>
+   </br>
+  "A mente é tudo. Você se torna aquilo que você pensa."
+   </br>
+  -Buda
+   </br>
+</p>
+
+<h3 align='center'>
+  SEGUE MINHAS HABILIDADES E PROGESSOS
+ </h3>
+
+<p align='center'>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
+ </p>
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YasmimFFerreira&show_icons=true&theme=synthwave">
+ </p>
+  </br>
+<p align='center'>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimFFerreira&show_icons=true&theme=synthwave">
+    </p>
+
+  ##  Educação
+- 📖 **Licenciatura em Física** \
+📆 2018 - 2023\
+📍 **Instituto Federal de São Paulo** - Votuporanga, Brasil
+  
+  
+  ##  Experiência
+
+- 👨‍💻 **Estagiário em Desenvolvimendo Web** \
+📆 04/2022 - 10/2022\
+📍 **Original.io** - Home Office
+  
+  </br>
+  
+   👨‍💻 **Desenvolvedor Front-end** \
+📆 11/2022 - momento\
+📍 **M3 e-commerce** - Home Office
+  
