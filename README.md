@@ -56,12 +56,13 @@
   
  ##  Experiência
 
- 👨‍💻 **Desenvolvedor Front-end** \
+👨‍💻 **Desenvolvedor Front-end** \
 📆 11/2022 - momento\
 📍 **M3 e-commerce** - Home Office
   
    </br>
-- 👨‍💻 **Estagiário em Desenvolvimendo Web** \
+   
+👨‍💻 **Estagiário em Desenvolvimento Web** \
 📆 04/2022 - 10/2022\
 📍 **Original.io** - Home Office
   
